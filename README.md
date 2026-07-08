@@ -1,5 +1,5 @@
-HaitiSafety
-Building the world's most trusted real-time safety, travel, and community Intelligence platform for Haiti.
+HaitiSafety is:
+"Building the world's most trusted real-time safety, travel, and community Intelligence platform for Haiti."
 
  - haitisafety-web
 
