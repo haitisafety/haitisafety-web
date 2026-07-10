@@ -2,6 +2,23 @@ HaitiSafety is:
 "Building the world's most trusted real-time safety, travel, and community Intelligence platform for Haiti."
 
  - haitisafety-web
+ - # HaitiSafety
+
+Logo
+
+Mission
+
+Current Status
+
+Technology Stack
+
+Repository Structure
+
+Roadmap
+
+Contributing
+
+License
 
 Official web application for the HaitiSafety platform.
  HaitiSafety
