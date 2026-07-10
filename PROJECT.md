@@ -20,3 +20,33 @@ Phase 4
 
 Phase 5
 - Production Launch
+# HaitiSafety Master Project
+
+## Vision
+
+Build the world's most trusted real-time safety, travel, and community intelligence platform for Haiti.
+
+## Current Phase
+
+Foundation
+
+## Current Milestone
+
+GitHub
+Website
+Brand
+Architecture
+
+## Next Milestone
+
+Homepage
+Safety Map
+Authentication
+Database
+
+## Future
+
+Mobile App
+Business Portal
+AI
+API
